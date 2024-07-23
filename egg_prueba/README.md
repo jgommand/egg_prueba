@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hello! I'm Eggsy! Full Stack Developer
 ## About me
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
@@ -14,3 +15,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - bailar
   - 
 >>>>>>> hobbies
+=======
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+>>>>>>> eb6a86a5a51bdf9809178e0f9625adf2e3f13526
